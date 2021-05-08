@@ -49,4 +49,4 @@ for i in range(1,len(l)):
         res.append(left[1] - left[0] + 1)
         left = l[i]
 res.append(left[1] - left[0] + 1)
-print(res)  
+print(res)
