@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 candies = [2, 3, 5, 1, 3]
 extraCandies = 3
 

@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 s = "codeleet"
 indices = [4,5,6,7,0,2,1,3]
 

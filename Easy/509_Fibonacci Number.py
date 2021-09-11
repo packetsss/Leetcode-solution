@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 hash_table = {}
 def Fibonacci_topdown(n):
     if n < 2:

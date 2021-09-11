@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 
 def find132pattern(nums):
     if len(set(nums)) < 3:

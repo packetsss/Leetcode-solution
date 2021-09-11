@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 def bdy_str(A, B):
     if len(A) != len(B):
         return False

@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val

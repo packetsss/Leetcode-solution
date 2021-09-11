@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 
 with open("file.txt", "r") as f:
     counter = 0

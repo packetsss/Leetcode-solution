@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 s = "RLLLLRRRLR"
 
 ctl, ctr, ctt = 0, 0, 0

@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 nums = [0, 1, 0, 1, 0, 1, 99]
 
 while len(nums) != 1:

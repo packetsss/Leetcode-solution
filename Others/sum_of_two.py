@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 """
 Given two int arrays a and b, and a target int
 Find if it's possible to sum up a value from each array that equals the target

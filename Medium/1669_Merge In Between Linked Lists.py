@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 list1 = [0, 1, 2, 3, 4, 5, 6]
 a = 2
 b = 4

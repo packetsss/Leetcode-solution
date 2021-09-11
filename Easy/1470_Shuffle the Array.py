@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 nums = [1,2,3,4,4,3,2,1]
 n = 4
 

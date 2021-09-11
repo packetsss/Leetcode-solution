@@ -1,3 +1,7 @@
+# Create by Packetsss
+# Personal use is allowed
+# Commercial use is prohibited
+
 m, n = 4, 4
 
 def uniquePaths(m, n):
